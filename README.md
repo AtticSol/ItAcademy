@@ -1,1 +1,1 @@
-# ItAcademy-TrainingCouse-javacore
+# ItAcademy
